@@ -1,0 +1,25 @@
+html {
+    background-color: $background-black;
+    font-size: 1rem;
+    // display: grid;
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+  }
+body {
+    line-height: 1.5;
+    font-size: 1.5rem;
+    font-family: sans-serif;
+    background-color: white;
+	text-decoration-color: white;
+}
+
+h1,h2,h3 {
+    // margin: auto;
+    font-family: bebas-neue;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 0em;
+    text-align: center;
+    font-size: 1.5rem;
+}
